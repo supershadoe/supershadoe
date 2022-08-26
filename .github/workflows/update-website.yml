@@ -3,9 +3,9 @@
 name: 'CD action to update the about me in blog'
 
 on:
-    push:
-        branches:
-            - main
+  push:
+    branches:
+      - main
 
 env:
   blog_repo: 'supershadoe/supershadoe.github.io'

@@ -1,23 +1,33 @@
 ### Hi there 👋
-I'm an 18 y/o high school student.
+I'm an 18 y/o college student.
 
-I try to make unique stuff or stuff which I need which can make the lives of me and the ones using it easier/better. Or something that I really despise the UI of (which still comes under my goal of making lives easier/better).
-
-> Some rant: In my opinion, when people say "first impressions are the best impressions", it also applies to software. An app which has all features with bad UI is as good as three other apps with good UI but each having one feature each; Makes UX worse while making the effort needed to perform a job more.
+I create stuff with clean and maintainable code, a good looking UI with decent UX (aesthetics are very important imo) and a short but unique and powerful list of features.
 
 ### Some info
 - Pronouns: **He/Him**
 - Preferred language to communicate: **English**
-- Languages known: **Kotlin, Python, Perl 5**
+- Languages known: **Kotlin, Python, Java, Typescript/JS, Perl (Perl 5), C**
 
-  Some basic knowledge of Java (as I learnt it a bit before learning Kotlin) and C (basic stuff).
+  Sorted in descending order of knowledge in each. (from most knowledgable in to
+  moderately knowledgable).
 
-  A lot of other languages like C#, HTML, CSS, JS, PowerShell, bash/zsh but the "Programming languages" I know are the ones mentioned above.
+  Know basics of **C++** (really mean it when I say "basics" here), **C#**
+  (The Microsoft Java lol) and **Rust** but nowhere close to using it to create
+  something other than simple terminal programs like a primitive calculator.
+
+  Kind of decent in using bash/zsh and powershell (_and cmd_)
+
+  _Also, I know HTML and CSS other than these but who cares?_
+
 - How to reach: Either by [mail](mailto:supershadoe@proton.me), by matrix (@supershadoe:matrix.org) or by discord (supershadoe#5495)
 
   First 2 are preferred though except for queries related to the discord bot.
 
-Check [pinned repos](https://github.com/supershadoe) for stuff I have worked on.
+Check [this list](https://github.com/stars/supershadoe/lists/contrib) for stuff
+I have made a contribution in the past and pinned repos (or the "self-star"
+list on my star lists) on my profile for stuff I have worked.
+
+_Also, the apps in the "contrib" list are good so maybe try using them once._
 
 ### Some stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=supershadoe&show_icons=true&theme=tokyonight)
