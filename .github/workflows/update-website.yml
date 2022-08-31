@@ -1,32 +1,32 @@
 # vim:sw=2:ts=2:sts=2:et
 
-name: 'CD action to update the about me in blog'
+name: "CD action to update the about me in blog"
 
 on:
   push:
-    branches:
-      - main
-
-env:
-  blog_repo: 'supershadoe/supershadoe.github.io'
+    branches: ["main"]
+    paths: ["README.md"]
+  workflow_dispatch:
 
 jobs:
   update-site:
     runs-on: ubuntu-latest
+    permissions:
+      id-token: write
     steps:
+      -
+        name: Setup gitsign
+        uses: chainguard-dev/actions/setup-gitsign@main
       -
         name: Checkout the blog repo
         uses: actions/checkout@v3
         with:
-          repository: ${{ env.blog_repo }}
+          repository: "supershadoe/website"
           token: ${{ secrets.PAT_FOR_UPDATING_BLOG }}
-          fetch-depth: 0
-          submodules: true
+          submodules: recursive
       -
         name: Update submodule
-        run: |
-          git pull --recurse-submodules
-          git submodule update --remote --recursive
+        run: git submodule update --remote --recursive
       -
         name: Commit the updated repo
         run: |
