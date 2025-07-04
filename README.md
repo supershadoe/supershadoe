@@ -1,8 +1,9 @@
-### Hi there 👋
-I create stuff with clean and maintainable code, a good looking UI with decent UX (aesthetics are very important imo)
-and a short but unique and powerful list of features.
+Reliable, maintainable, aesthetic, thoughtful.
 
-Check [this list](https://github.com/stars/supershadoe/lists/contrib) for stuff
-I have made a contribution to in the past.
+I craft tools that embody these four words.
 
-Check out the pinned repos on my profile for stuff I have worked on.
+They might have a concise set of features but are highly potent.
+
+The repositories pinned showcase what I have been working on.
+
+_You can find my contributions to other open-source projects [here.](https://github.com/stars/supershadoe/lists/contrib)_
